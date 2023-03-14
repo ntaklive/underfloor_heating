@@ -1,0 +1,24 @@
+html {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: Inter, sans-serif;
+    color: #232020;
+}
+
+
+.container {
+    max-width: 1190px;
+    margin: 0 auto;
+}
+
+.list-clean {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
